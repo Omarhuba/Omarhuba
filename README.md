@@ -7,7 +7,7 @@
  <h3>💬 I would love to talk about</h3>
  <h3>👨‍💻 My portfolio is available at</h3>
  <h3>📫 How to reach me: omarhuba@gmail.com</h3>
- <h3>New-Portfolio: https://omarhuba-portfolio.netlify.</h3>app/
+ <h3>New-Portfolio: https://omarhuba-portfolio.netlify.app/</h3>
 
 
 
