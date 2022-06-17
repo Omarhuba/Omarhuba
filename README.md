@@ -2,12 +2,12 @@
 
 
 
-## 🎓 I'm currently studying Javascript development at IT-Högskolan in Stockholm.
-## 🌱 I’m currently learning the React with Progressive-Web-App
-## 💬 I would love to talk about
-## 👨‍💻 My portfolio is available at
-## 📫 How to reach me: omarhuba@gmail.com
-## New-Portfolio: https://omarhuba-portfolio.netlify.app/
+<h3>🎓 I'm currently studying Javascript development at IT-Högskolan in Stockholm.</h3>
+<h3>🌱 I’m currently learning the React with Progressive-Web-App</h3>
+ <h3>💬 I would love to talk about</h3>
+ <h3>👨‍💻 My portfolio is available at</h3>
+ <h3>📫 How to reach me: omarhuba@gmail.com</h3>
+ <h3>New-Portfolio: https://omarhuba-portfolio.netlify.</h3>app/
 
 
 
