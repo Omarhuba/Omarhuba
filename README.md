@@ -3,11 +3,11 @@
 
 
 🎓 I'm currently studying Javascript development at IT-Högskolan in Stockholm.
-🔭 I’m currently working on
 🌱 I’m currently learning the React with Progressive-Web-App
 💬 I would love to talk about
 👨‍💻 My portfolio is available at
 📫 How to reach me: omarhuba@gmail.com
+New-Portfolio: https://omarhuba-portfolio.netlify.app/
 
 
 
